@@ -1,0 +1,23 @@
+QLineEdit#bilibili-searchLine{
+    border: 2px solid rgba(199,166,111,0.97);
+    height: 30px;
+    font-size: 20px;
+    outline: none;
+    padding: 4px 10px;
+}
+QPushButton#bilibili-searchButton{
+    border: 1px solid rgba(195,199,195,0.97);
+    font-size: 20px;
+    height: 38px;
+    width: 100px;
+}
+QComboBox{
+    border-radius: 3px;
+    padding: 1px 18px 1px 3px;
+    min-width: 6em;
+    font-size: 18px;
+}
+QPlainTextEdit{
+    font-size: 18px;
+}
+
